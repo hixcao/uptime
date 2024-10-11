@@ -26,7 +26,7 @@ window.Config = {
     },    
     {
       text: '联系我',
-      url: 'www.cao77.top/'
+      url: 'https://www.cao77.top/'
     },
   ],
 };
