@@ -22,7 +22,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://uptime.001315.xyz/'
+      url: 'https://uptime.zrfme.com/'
     },    
     {
       text: 'GitHub',
@@ -30,7 +30,8 @@ window.Config = {
     },
     {
       text: '博客',
-      url: 'https://blog.aizrf.COM/'
+      url: 'https://blog.zrf.me/'
     },
   ],
 };
+
