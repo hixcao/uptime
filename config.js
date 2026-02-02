@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Uptime-status',
+  SiteName: '埃克斯检测面板',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -20,5 +20,6 @@ window.Config = {
     
   ],
 };
+
 
 
